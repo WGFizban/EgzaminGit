@@ -1,0 +1,13 @@
+C:\Users\Wojciech\IdeaProjects\EgzaminGit>git reflog
+1aa510a (HEAD -> deathedHeadBranch) HEAD@{0}: checkout: moving from 1023435ec397a5bb8eb3ad09312f833a1ff7016c to deathedHeadBranch
+1023435 (origin/main, origin/HEAD) HEAD@{1}: checkout: moving from deathedHeadBranch to 1023435ec397a5bb8eb3ad09312f833a1ff7016c
+1aa510a (HEAD -> deathedHeadBranch) HEAD@{2}: checkout: moving from 1aa510a9894684b3a75012b49d2e594404dc3d4e to deathedHeadBranch
+1aa510a (HEAD -> deathedHeadBranch) HEAD@{3}: commit: Change Lorem ipsum
+a9155f5 HEAD@{4}: checkout: moving from texts to a9155f55658a3cec1ba367125577046a5a7ecfbc
+2b43df8 (tag: v1.1, origin/texts, texts) HEAD@{5}: commit: Kant Rozprawa
+a9155f5 HEAD@{6}: rebase (finish): returning to refs/heads/texts
+a9155f5 HEAD@{7}: rebase (start): checkout a9155f55658a3cec1ba367125577046a5a7ecfbc
+d1d0c11 HEAD@{8}: commit: Lorem ipsum
+a9155f5 HEAD@{9}: commit: Lorem ipsum
+d08e8d4 (main) HEAD@{10}: checkout: moving from main to texts
+:
